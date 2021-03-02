@@ -1,6 +1,9 @@
 # hello-world
 
-Hello Humans!
-
-Hubot here, I like Node,js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find far superior to Earth tacos
+Hello my name is Lee MinWoo.
+My StudentNumber is 32183105.
+I'm a sophomere who returned to school this time. 
+I know this lecture is for third grade student.
+So I'm sure there's something hard to understand, but I'll participate hard so that I can follow the class.
+And I'll try to get a lot of things from this lecture.
+Thank you.
